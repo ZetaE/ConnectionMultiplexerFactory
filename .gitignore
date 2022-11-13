@@ -48,3 +48,12 @@ Thumbs.db
 *.mov
 *.wmv
 
+.vs/
+ConnectionMultiplexerFactory.IntegrationTests/bin/
+ConnectionMultiplexerFactory.IntegrationTests/obj/
+src/obj/
+tests/ConnectionMultiplexerFactory.Tests/bin/
+tests/ConnectionMultiplexerFactory.Tests/obj/
+src/bin/
+tests/ConnectionMultiplexerFactory.IntegrationTests/bin/
+tests/ConnectionMultiplexerFactory.IntegrationTests/obj/
